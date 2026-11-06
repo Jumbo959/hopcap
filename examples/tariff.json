@@ -1,0 +1,9 @@
+{
+  "currency": "RUB",
+  "fares": { "bus": 65, "tram": 65, "metro": 75, "rail": 80 },
+  "zoneStep": 30,
+  "transferWindowMin": 90,
+  "transferFlat": 0,
+  "dailyCap": 300,
+  "weeklyCap": 1600
+}
